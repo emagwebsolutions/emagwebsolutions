@@ -17,14 +17,6 @@ I’m Emmanuel, a web developer, specializes in frontand backend development. I 
   
   
   
-  
-[](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-
-
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emagwebsolutions)](https://git.io/streak-stats)
@@ -41,17 +33,21 @@ I’m Emmanuel, a web developer, specializes in frontand backend development. I 
 <p> 
 
 <a href="https://reactjs.org/" target="_blank"  align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+ </a> 
 
-<a href="https://reactjs.org/" target="_blank"  align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a> 
+<a href="https://node.org/" target="_blank"  align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</a> 
 
-<a href="https://reactjs.org/" target="_blank"  align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a> 
+<a href="https://typescript.com/" target="_blank"  align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ </a> 
 
 
-<a href="https://reactjs.org/" target="_blank" align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com/" target="_blank" align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  </a> 
  </p>
 
 
