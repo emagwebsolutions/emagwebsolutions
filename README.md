@@ -11,7 +11,7 @@
 <p dir="auto">
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Emmanuel, a web developer, specializes in frontand backend development. I am commited to quality and excellence my passion is to build web applications that serves intended purpose
   </p>
 
 
