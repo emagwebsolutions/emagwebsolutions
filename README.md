@@ -27,6 +27,10 @@ I’m Emmanuel, a web developer, specializes in frontand backend development. I 
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emagwebsolutions)](https://git.io/streak-stats)
+
+
+
 <!-- Pinned Repositories -- >
 
 <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
