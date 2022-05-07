@@ -19,3 +19,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emagwebsolutions)](https://git.io/streak-stats)
+
+
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
