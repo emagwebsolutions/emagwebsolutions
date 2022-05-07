@@ -18,7 +18,7 @@ I’m Emmanuel, a web developer, specializes in frontand backend development. I 
   
   
   
-[](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+[](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
