@@ -12,7 +12,7 @@
 <p dir="auto">
 Hey there 👋
 
-I’m Emmanuel, a web developer, specializes in frontand backend development. I am commited to quality and excellence my passion is to build web applications that serves intended purpose
+I’m Emmanuel, a web developer, specializes in front and backend development. I am commited to quality and excellence. My passion is to build web applications which serves a purpose
   </p>
   
   
