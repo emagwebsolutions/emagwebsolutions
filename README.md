@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=emagweb2017@gmail.com)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=emagwebsolutions&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
