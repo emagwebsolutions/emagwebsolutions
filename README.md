@@ -37,16 +37,16 @@ I’m Emmanuel, a web developer, specializes in frontand backend development. I 
  </a> 
 
 <a href="https://node.org/" target="_blank"  align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="40" />
 </a> 
 
 <a href="https://typescript.com/" target="_blank"  align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" />
  </a> 
 
 
 <a href="https://sass-lang.com/" target="_blank" align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
   </a> 
  </p>
 
