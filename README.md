@@ -1,4 +1,4 @@
-[![Emmanuel's GitHub Banner](https://cdn.vox-cdn.com/thumbor/1XjouVnZmyYd12WYI261Sv_W-SM=/0x0:2040x1360/920x613/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66663321/vpavic_191118_3800_0162.0.jpg)](http://www.emagwebsolutions.com/)
+[![Emmanuel's GitHub Banner](https://scontent.facc5-2.fna.fbcdn.net/v/t1.6435-9/33653563_2206087672740022_3770259293295607808_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=a83260&_nc_eui2=AeHk0Hl9Z6K9apjDd0xlUOGMQrCusc00mghCsK6xzTSaCI1WDOPGNRsJq0VbBfS9whBxQ9qLhIE8jtmQdIfcUSNd&_nc_ohc=7h1UqQ_RBvgAX9mkbUJ&_nc_ht=scontent.facc5-2.fna&oh=00_AT-o0zYs6cJ9Q8O_MCX1VgZLBOWjsj5_cX_UhbbpXZdmgg&oe=629DB7B0)](http://www.emagwebsolutions.com/)
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/agengo2016)
